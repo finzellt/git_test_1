@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 # PART 2
 # Using the Superior Dataset, plot the Water Level, the second column, 
 # as a function of time years
-
+df = pd.read_csv("sup.csv")
 
 
 # PART 3
