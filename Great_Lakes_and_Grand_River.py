@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 # PART 1
 # Using the Michigan/Huron Dataset, plot the Water Level, the second 
 # column, as a function of time years
-
+df = pd.read_csv("mhu.csv")
 
 
 # PART 2
